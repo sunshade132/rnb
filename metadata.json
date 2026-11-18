@@ -1,0 +1,6 @@
+{
+  "name": "Blank Website",
+  "description": "A clean, empty website canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
